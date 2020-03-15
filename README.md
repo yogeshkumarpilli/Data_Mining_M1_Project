@@ -2,7 +2,7 @@
 Analysis of data mining and machine learning concepts on Online News Popularity UCI dataset.
 
 # DataSet Source 
-*Link - https://archive.ics.uci.edu/ml/datasets/online+news+popularity
+* Link - https://archive.ics.uci.edu/ml/datasets/online+news+popularity
 
 # Data Set Informations
 
@@ -80,21 +80,21 @@ Attribute Information:
 
 
 # Challenges
-*Managing Huge dataset
-*Removing Outliers
-*Performing Support Vector Machine and Random Forest with Huge data takes hours in my systems,so I couldn't do it
-*Computation time and energy
-*Thinking in a way as Business Analyst and Business Intelligence
+* Managing Huge dataset
+* Removing Outliers
+* Performing Support Vector Machine and Random Forest with Huge data takes hours in my systems,so I couldn't do it
+* Computation time and energy
+* Thinking in a way as Business Analyst and Business Intelligence
 
 
 # Learnings
-*Data Preparation & modelling
-*Efficient way of data mining and machine learning algorithm
-*Importance of ACM Format Report and handons on International Journal Format
-*Very good study on Data science forum (Kaggle, Kdnuggets)
-*Very good study research based on this data set
-*View data as Business model to improve rather than just data
-*Propose a story based on data
-*RStudio, Jupiter with R kernel, Colab with R Kernel
-*Figuring meaningful insights
-*Way of thinking as a Business analyst and a data scientist (eg: Requirement analyst & Problem Solver)
+* Data Preparation & modelling
+* Efficient way of data mining and machine learning algorithm
+* Importance of ACM Format Report and handons on International Journal Format
+* Very good study on Data science forum (Kaggle, Kdnuggets)
+* Very good study research based on this data set
+* View data as Business model to improve rather than just data
+* Propose a story based on data
+* RStudio, Jupiter with R kernel, Colab with R Kernel
+* Figuring meaningful insights
+* Way of thinking as a Business analyst and a data scientist (eg: Requirement analyst & Problem Solver)
